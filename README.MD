@@ -1,1 +1,1 @@
-#AngularJS sample application with restangular
+#AngularJS sample application
